@@ -1,0 +1,89 @@
+.footerSection{
+  min-width: 560px;
+  /* height: 220px; */
+  padding: 0;
+  margin: 0;
+  background-color: #50c3af;
+  text-align: center;
+}
+.footerTopTitle{
+  margin: 0;
+  padding: 40px 0 0 0;
+}
+.footerTopTitleIMG {
+  padding: 0;
+  margin: 0;
+  vertical-align: middle;
+  display: inline-block;
+}
+.footerTopTitleDESC{
+  padding: 0 15px;
+  margin: 0;
+  vertical-align: middle;
+  display: inline-block;
+  color: white;
+}
+.footerTopLine{
+  height: 2px;
+  padding: 0;
+  margin: 25px auto;
+  width: 40%;
+  border-top: 2px solid #61c8b6;
+}
+
+
+/* footerBottom */
+.footerBottom{
+  padding: 0;
+  margin: 0;
+}
+.footerBottomList{
+  list-style: none;
+  padding: 10px 0;
+  margin: 20px 0 50px 0;
+}
+.footerBottomItem{
+  padding: 15px 0;
+  margin: 0;
+  vertical-align: middle;
+  float: none;
+  display: inline-block;
+}
+
+/* Last section */
+.lastSection{
+  padding: 0;
+  margin: 0;
+  background-color: white;
+  height: 50px;
+  text-align: justify;
+}
+.lastSectionLeft{
+  padding: 13px 0;
+  margin: 0;
+  display: inline-block;
+  float: left;
+}
+.lastSectionLeft p{
+  color: #aaacaf;
+  display: inline-block;
+}
+.lastSectionRight {
+  padding: 13px 0;
+  margin: 0;
+  display: inline-block;
+  right: 0;
+  float: right;
+}
+.lastSectionRightList{
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  list-style: none;
+}
+.lastSectionRightItem {
+  padding: 0 10px;
+  margin: 0;
+  display: inline-block;
+
+}
